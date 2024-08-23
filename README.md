@@ -8,5 +8,5 @@ Section:NewLabel("Fuse0.1")
 
 
 Section:NewButton("ButtonText", "ButtonInfo", function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Nadiehp/Fuse-v0.1/main/README.md?token=GHSAT0AAAAAACVDBKVIRDJRABMGKKZC555YZWIQC7Q"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Nadiehp/Fusev0.1/main/Fusev0.1n"))()
 end)
