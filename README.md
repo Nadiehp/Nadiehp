@@ -9,4 +9,6 @@ Section:NewLabel("Fuse0.1")
 
 Section:NewButton("Fusev0.1", "OG", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Nadiehp/Fusev0.1/main/Fusev0.1n"))()
+Section:NewButton("Duck-299", "OG", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Nadiehp/299/main/Duck-Fuse"))()
 end)
