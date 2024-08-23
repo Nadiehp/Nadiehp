@@ -7,6 +7,6 @@ local Section = Tab:NewSection("Fuse")
 Section:NewLabel("Fuse0.1")
 
 
-Section:NewButton("ButtonText", "ButtonInfo", function()
+Section:NewButton("Fusev0.1", "OG", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Nadiehp/Fusev0.1/main/Fusev0.1n"))()
 end)
